@@ -1,8 +1,3 @@
-#Ali Kaif
-#Section Leader: Jesse Sumerau
-#January 24th, 2019
-#ISTA 350 HW#1
-
 import re, os, pickle
 
 
